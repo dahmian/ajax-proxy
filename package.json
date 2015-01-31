@@ -1,0 +1,24 @@
+{
+  "name": "ajax-proxy",
+  "version": "0.0.0",
+  "description": "",
+  "main": "ajax-proxy.js",
+  "dependencies": {
+    "request": "^2.51.0",
+    "express": "^4.11.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dahmian/ajax-proxy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dahmian/ajax-proxy/issues"
+  },
+  "homepage": "https://github.com/dahmian/ajax-proxy"
+}
